@@ -18,7 +18,7 @@ import org.parceler.Parcel;
 @SuppressWarnings("unused")
 @Entity(tableName = "article")
 @Parcel
-public class Article {
+public class Article   {
 
     @PrimaryKey(autoGenerate = true)
     private int id;
