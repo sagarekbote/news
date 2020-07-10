@@ -6,7 +6,9 @@ import android.content.Context;
 import com.demo.news.di.component.ApplicationComponent;
 import com.demo.news.di.component.DaggerApplicationComponent;
 import com.demo.news.di.module.ApplicationModule;
-
+/**
+* This is an application class
+ */
 public class NewsApplication extends Application  {
 
     protected ApplicationComponent mApplicationComponent;
