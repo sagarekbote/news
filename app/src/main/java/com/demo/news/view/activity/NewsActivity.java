@@ -23,7 +23,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * An activity for showing the news list
+ * An activity for showing the news list of the application
  */
 public class NewsActivity extends AppCompatActivity implements OnArticleClickedListener {
 
