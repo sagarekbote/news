@@ -7,7 +7,7 @@ import com.demo.news.di.component.ApplicationComponent;
 import com.demo.news.di.component.DaggerApplicationComponent;
 import com.demo.news.di.module.ApplicationModule;
 /**
-* This is an application class
+* This is an application class. Test comment
  */
 public class NewsApplication extends Application  {
 
