@@ -9,6 +9,7 @@ import com.demo.news.di.module.ApplicationModule;
 /**
 * This is an application class. 
 * Test comment
+* One more comment
  */
 public class NewsApplication extends Application  {
 
