@@ -13,6 +13,7 @@ import com.demo.news.di.module.ApplicationModule;
 * two more comment
 * Test test
 * New New
+* This is comment one
  */
 public class NewsApplication extends Application  {
 
