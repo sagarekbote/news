@@ -12,6 +12,7 @@ import com.demo.news.di.module.ApplicationModule;
 * One more comment
 * two more comment
 * Test test
+* My experiment
  */
 public class NewsApplication extends Application  {
 
