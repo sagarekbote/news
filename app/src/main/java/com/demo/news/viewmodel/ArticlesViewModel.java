@@ -16,6 +16,7 @@ import javax.inject.Inject;
 
 /**
  * A view model for the NewsActivity
+ * BranchDemo
  */
 public class ArticlesViewModel extends AndroidViewModel {
 
