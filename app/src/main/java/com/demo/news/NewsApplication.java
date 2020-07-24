@@ -8,6 +8,7 @@ import com.demo.news.di.component.DaggerApplicationComponent;
 import com.demo.news.di.module.ApplicationModule;
 /**
 * This is an application class. Test comment 1
+* branchdemo commit check
  */
 public class NewsApplication extends Application  {
 
