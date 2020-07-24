@@ -5,6 +5,9 @@ import java.util.List;
 import javax.annotation.Generated;
 import com.google.gson.annotations.SerializedName;
 
+/**
+* TopStoriesResponse model
+ */
 @Generated("net.hexar.json2pojo")
 @SuppressWarnings("unused")
 public class TopStoriesResponse {
