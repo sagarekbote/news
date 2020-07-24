@@ -5,7 +5,9 @@ import javax.annotation.Generated;
 import com.google.gson.annotations.SerializedName;
 
 import org.parceler.Parcel;
-
+/**
+* Branch demo comment
+ */
 @Generated("net.hexar.json2pojo")
 @SuppressWarnings("unused")
 @Parcel

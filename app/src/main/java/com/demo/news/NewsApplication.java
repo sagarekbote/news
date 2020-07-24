@@ -9,6 +9,13 @@ import com.demo.news.di.module.ApplicationModule;
 /**
 * This is an application class. Test comment 1
 * branchdemo commit check
+* Test comment
+* One more comment
+* two more comment
+* Test test
+* New New
+* This is comment one
+* Comment 2
  */
 public class NewsApplication extends Application  {
 
