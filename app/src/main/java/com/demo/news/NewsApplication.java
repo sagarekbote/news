@@ -16,6 +16,7 @@ import com.demo.news.di.module.ApplicationModule;
 * New New
 * This is comment one
 * Comment 2
+* change 1
  */
 public class NewsApplication extends Application  {
 
