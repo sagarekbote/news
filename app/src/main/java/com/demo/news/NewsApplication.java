@@ -21,6 +21,8 @@ import com.demo.news.di.module.ApplicationModule;
 * change 3
 * change 4
 * change 5
+* Testing 1
+* Testing 2
  */
 public class NewsApplication extends Application  {
 
