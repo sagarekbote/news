@@ -24,6 +24,7 @@ import butterknife.ButterKnife;
 
 /**
  * An activity for showing the news list of the application
+ * change 2
  */
 public class NewsActivity extends AppCompatActivity implements OnArticleClickedListener {
 

@@ -22,6 +22,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 /**
  * An activity for showing the news details
+ * change 3
  */
 public class NewsDetailsActivity extends AppCompatActivity {
 

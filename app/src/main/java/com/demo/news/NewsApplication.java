@@ -7,7 +7,8 @@ import com.demo.news.di.component.ApplicationComponent;
 import com.demo.news.di.component.DaggerApplicationComponent;
 import com.demo.news.di.module.ApplicationModule;
 /**
-* This is an application class. 
+* This is an application class. Test comment 1
+* branchdemo commit check
 * Test comment
 * One more comment
 * two more comment
@@ -15,6 +16,7 @@ import com.demo.news.di.module.ApplicationModule;
 * New New
 * This is comment one
 * Comment 2
+* change 1
  */
 public class NewsApplication extends Application  {
 
